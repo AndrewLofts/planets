@@ -1,5 +1,2 @@
-Cold and dry, but everything is my favourite color
-The two moons may be a problem for Wolfman
-But the mummy will appreciate the lack of humidity
-
-CHANGESSSSSSSSSSSSSS
+#CHANGED THIS TO HELP WITH DOCKER TESTING
+echo "HELLO FROM INIDE THE DOCKER, this would be oppni running"
