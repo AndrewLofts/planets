@@ -1,2 +1,0 @@
-#CHANGED THIS TO HELP WITH DOCKER TESTING
-echo "HELLO FROM INIDE THE DOCKER, this would be oppni running"
